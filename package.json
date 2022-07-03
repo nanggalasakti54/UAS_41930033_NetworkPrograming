@@ -1,0 +1,20 @@
+{
+  "name": "pastibisabot",
+  "version": "1.0.0",
+  "description": "pasti bisa bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pasti",
+    "bisa",
+    "telegram"
+  ],
+  "author": "ani",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "telebot": "^1.4.1"
+  }
+}
